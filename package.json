@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "author": "ka",
   "devDependencies": {
-    "expect.js": "*"
+    "expect.js": "0.2.0"
   }
 }
