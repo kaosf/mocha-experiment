@@ -9,6 +9,5 @@ npm test
 
 ## Version information
 
-* Node.js: 0.8.19
-* npm: 1.2.10
-* mocha: 1.10.0
+* Node.js: 0.10.13
+* mocha: 1.12.0
