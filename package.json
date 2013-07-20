@@ -1,9 +1,9 @@
 {
   "name": "mocha-experiment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "ka",
   "devDependencies": {
-    "mocha": "1.10.0",
+    "mocha": "1.12.0",
     "expect.js": "0.2.0"
   },
   "scripts": {
